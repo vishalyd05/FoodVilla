@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="https://i.ibb.co/FWmKHr0/md-home.png" alt="logo" width="800" height= />
+<img width="958" alt="Screenshot 2024-10-25 110355" src="https://github.com/user-attachments/assets/a698b60a-bb22-49b9-b8ed-974832d47240">
 
 <h1>FoodVilla</h1>
 <p>"Welcome to FoodVilla Indulge your cravings with our cutting-edge food ordering app, crafted as an academic endeavor to mirror the best features of your favorite platforms. Discover delectable delights from local restaurants, just like Zomato and Swiggy. While we're not for real-world use, we're your one-stop destination to explore the digital flavors of food tech innovation!"</p>
@@ -17,14 +17,20 @@
 
 ### :camera: Screenshots
 
-<div align="center"> <a href="https://eatsy-food.netlify.app/"><img src="https://i.ibb.co/FWmKHr0/md-home.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://eatsy-food.netlify.app/"><img src="https://i.ibb.co/DWrN8zW/md-cusine.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://eatsy-food.netlify.app/"><img src="https://i.ibb.co/r6kp6mj/md-filters.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://eatsy-food.netlify.app/"><img src="https://i.ibb.co/TmH8CPb/md-search.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://food-villa-by-vishal.netlify.app/"><img width="958" alt="Screenshot 2024-10-25 110355" src="https://github.com/user-attachments/assets/aee89e4b-07ec-458f-b1bb-40eebd743698">
+</a> </div>
+<div align="center"> <a href="https://food-villa-by-vishal.netlify.app/"><img width="936" alt="Screenshot 2024-10-25 113811" src="https://github.com/user-attachments/assets/8c137989-8a66-48fc-ab22-8b24dc214d5c">
+</a> </div>
+<div align="center"> <a href="https://food-villa-by-vishal.netlify.app/"><img width="943" alt="Screenshot 2024-10-25 114231" src="https://github.com/user-attachments/assets/02d69ee1-be05-4d20-a886-9ed2c8bf57bf">
+</a> </div>
+<div align="center"> <a href="https://food-villa-by-vishal.netlify.app/"><img width="940" alt="Screenshot 2024-10-25 122901" src="https://github.com/user-attachments/assets/8070847b-68b6-4f7a-a9dc-b5a86c2f6706">
+</a> </div>
 <div >
-<div align="center"> <a href="https://eatsy-food.netlify.app/"><img src="https://i.ibb.co/FYVdLz1/md-menu.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://eatsy-food.netlify.app/"><img width="938" alt="Screenshot 2024-10-25 122757" src="https://github.com/user-attachments/assets/c14ec253-7a0e-4418-a37f-f7abddb094eb">
+</a> </div>
 <div >
-<div align="center"> <a href="https://eatsy-food.netlify.app/"><img src="https://i.ibb.co/FX2Zghj/md-cart.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://eatsy-food.netlify.app/"><img width="940" alt="Screenshot 2024-10-25 123944" src="https://github.com/user-attachments/assets/49ec4412-35e7-4a10-af0c-001a13b28d73">
+</a> </div>
 <div >
 
 ### :dart: Features
@@ -78,10 +84,10 @@ npm run dev
 ```
 
 
-```
+
 
 ## :handshake: Contact
 
-Vishal Yadav - - vydhoni75@gmail.com
+Vishal Yadav - vydhoni75@gmail.com
 
 Project Link: [https://github.com/vishalyd05/FoodVilla](https://github.com/vishalyd05/FoodVilla)
